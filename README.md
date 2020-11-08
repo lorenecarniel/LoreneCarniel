@@ -1,4 +1,8 @@
 ### Hi there 👋
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lorenecarniel)](https://github.com/lorenecarniel)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lorenecarniel/)](https://www.linkedin.com/in/lorenecarniel/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55+16+996137058&text=Olá!)](https://api.whatsapp.com/send?phone=55+16+996137058&text=Olá!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lorene.carniel@gmail.com)](mailto:lorene.carniel@gmail.com)
 
 <!--
 **lorenecarniel/lorenecarniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
