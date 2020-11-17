@@ -6,11 +6,11 @@
 
 Olá! Me chamo Lorene Carniel e segue abaixo um pouco sobre mim:
 
-### 🚀Objetivo
+## 🚀Objetivo
 Um dos meus maiores objetivos é poder ajudar as pessoas com meu conhecimento, realizando feitos que mesmo com poucos detalhes, pode equivaler muito para alguém.
 
-### 📚Cursos
+## 📚Cursos
 Atualmente estou estudando experiência do usuário (UX) em conjunto com design de interface (UI), aprendendo varias ferramentas, dicas e táticas ideais para desenvolver uma aplicação bonita e adequada para seus usuários.
 
-### 🎮Hobbies
+## 🎮Hobbies
 Nos horários livres gosto de tocar instrumentos, ouvir música, ler livros, conversar com minha família e não menos importante, jogar no computador! 
